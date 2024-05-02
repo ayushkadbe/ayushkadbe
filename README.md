@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Ayush Kadbe
-I'm a Tech Enthusiat with focus on Data Science. Passionate about exploring businesses, technology and fostering innovation, I thrive in collaborative environments. 
+I'm a Tech Enthusiast with focus on Data Science & AI. Passionate about exploring businesses, technology and fostering innovation, I thrive in collaborative environments. 
 
 <!--
 Here are some of my projects categorize
