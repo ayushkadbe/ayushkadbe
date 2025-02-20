@@ -1,5 +1,5 @@
 ### Hi 👋 I am Ayush Kadbe
-I'm a Tech Enthusiast with focus on Data Science & AI. Passionate about exploring businesses, technology and fostering innovation, I thrive in collaborative environments. 
+I'm a Business Analyst with focus on consulting in Data Science & AI. Passionate about exploring businesses, technology and fostering innovation, I thrive in collaborative environments. 
 
 <!--
 Here are some of my projects categorize
