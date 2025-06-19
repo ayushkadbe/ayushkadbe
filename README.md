@@ -4,8 +4,6 @@ I'm a Business Analyst and founder-operator in the making, focused on:
 
 - 🧠 **Innovation Consulting** — R&D across Web3, Data Science, and AI automation  
 - 📈 **Growth Hacking** — Building scalable customer acquisition systems (because revenue solves most problems)  
-- 🏗️ **Venture Building** — Taking ideas from 0 to 1 using PMF playbooks, MVPs, and hierarchy structuring  
-- 💼 **Venture Capital & Scouting** — Mapping trends, sourcing startups, and partnering with innovative founders  
 - 🌱 **Non-Profit Innovation** — Designing scalable systems for education, social good, and long-term impact
 
 I’m passionate about designing systems that create lasting change — at the intersection of technology, business, and purpose.
